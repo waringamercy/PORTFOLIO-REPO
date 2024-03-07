@@ -1,0 +1,45 @@
+{
+    margin :0
+    padding;0
+    font family;'josephin sans' , sans serif;
+}
+
+.hero{
+    height:100vh
+    width: 100%
+    background image: url(../img/background.jpg);https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F13%2F04%2F7c%2F13047cc05340be6afe126ca5906591fe.jpg&tbnid=RO-9SNbtAwItSM&vet=12ahUKEwjwqrasxuGEAxVeVKQEHdUJAfoQMygGegQIARB3..i&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2F545357836133693118%2F&docid=mUtgaYg30Oyg-M&w=735&h=412&q=download%20pictures&ved=2ahUKEwjwqrasxuGEAxVeVKQEHdUJAfoQMygGegQIARB3
+    background size:corner-present
+    background position : :current
+
+}
+
+
+.navbar{
+     display :flex
+     align items : centre
+     justify content : space-between
+     padding-top: 45px
+
+}
+
+.navbar .logo{
+
+     width: 160px;
+     cursor: pointer;
+     margin-top: 3;
+     margin-left: 2%;
+     
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
